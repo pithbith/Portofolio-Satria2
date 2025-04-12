@@ -19,6 +19,7 @@ import {
   react1,
   javascript1,
   starbucks,
+  pp,
   fullstack,
   webdev,
   tesla,
@@ -166,7 +167,7 @@ const testimonials = [
     name: "Satria",
     designation: "Programmer",
     company: "SMKN 10",
-    image: "./src/assets/pp.png",
+    image: pp,
   },
   {
     testimonial:
@@ -174,7 +175,7 @@ const testimonials = [
     name: "Satria",
     designation: "Programmer",
     company: "SMKN 10",
-    image: "./src/assets/pp.png",
+    image: pp,
   },
   {
     testimonial:
@@ -182,7 +183,7 @@ const testimonials = [
     name: "Satria ",
     designation: "Proogrammer",
     company: "SMKN 10",
-    image: "./src/assets/pp.png",
+    image: pp,
   },
 ];
 
