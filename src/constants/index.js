@@ -110,7 +110,7 @@ const experiences = [
     company_name: "",
     icon: react1,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "April 2025",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -123,7 +123,7 @@ const experiences = [
     company_name: "",
     icon: javascript1,
     iconBg: "#E6DEDD",
-    date: "Jan 2022 - Feb 2023",
+    date: "April 2025",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -137,7 +137,7 @@ const experiences = [
     company_name: "",
     icon: webdev,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "April 2025",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -150,7 +150,7 @@ const experiences = [
     company_name: "",
     icon: fullstack,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "April 2025",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
