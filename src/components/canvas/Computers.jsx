@@ -23,7 +23,7 @@ import React, { Suspense, useEffect, useState } from "react";
           object={computer.scene}
           scale={isMobile ? 2 : 2}
           position={isMobile ? [0, -3, -2.2] : [0, -3.25, -1.5]}
-          rotation={[-0.01, -0.2, -0.1]}
+          rotation={[-0, -0, -0]}
         />
       </mesh>
     );
