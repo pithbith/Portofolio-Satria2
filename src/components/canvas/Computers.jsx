@@ -5,7 +5,7 @@ import React, { Suspense, useEffect, useState } from "react";
   import CanvasLoader from "../Loader";
 
   const Computers = ({ isMobile }) => {
-    const computer = useGLTF("./desktop_pc/scene-v1.glb");
+    const computer = useGLTF("./desktop_pc/Desk.glb");
 
     return (
       <mesh>
@@ -21,7 +21,7 @@ import React, { Suspense, useEffect, useState } from "react";
         <pointLight intensity={1} />
         <primitive
           object={computer.scene}
-          scale={isMobile ? 0.7 : 0.75}
+          scale={isMobile ? 2 : 2}
           position={isMobile ? [0, -3, -2.2] : [0, -3.25, -1.5]}
           rotation={[-0.01, -0.2, -0.1]}
         />
