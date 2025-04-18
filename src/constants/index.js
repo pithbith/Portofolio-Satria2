@@ -164,7 +164,7 @@ const testimonials = [
   {
     testimonial:
       "I am an 11th-grade Software Engineering student at SMKN 10 with a strong interest in technology and software development.",
-    name: "Satria",
+    name: "Satria  ",
     designation: "Programmer",
     company: "SMKN 10",
     image: pp,
@@ -180,7 +180,7 @@ const testimonials = [
   {
     testimonial:
       "I have experience in creating simple projects using programming languages such as HTML, CSS, and JavaScript. I am eager to contribute to the creative industry and the field of information technology.",
-    name: "Satria ",
+    name: "Satria   ",
     designation: "Proogrammer",
     company: "SMKN 10",
     image: pp,
