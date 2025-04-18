@@ -150,7 +150,7 @@ const experiences = [
     company_name: "",
     icon: fullstack,
     iconBg: "#E6DEDD",
-    date: "April 2022",
+    date: "April 2025",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
